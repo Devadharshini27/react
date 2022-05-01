@@ -1,0 +1,19 @@
+.container {
+    margin-top: 1.2rem;
+  }
+  
+  
+  .container ::-webkit-input-placeholder {
+    color: rgb(187, 168, 168) !important;
+    font-style: italic;
+  }
+  .container input{
+    color: white !important;
+    font-style: italic;
+  }
+  .container input:focus {
+    background-color: transparent;
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 2px solid tomato;
+  }
