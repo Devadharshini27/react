@@ -17,7 +17,9 @@ form {
   }
 
   form input 
-  .container::-webkit-input-placeholder,
+  .container::-webkit-input-placeholder
   {
       color:white !important;
   }
+
+ 
